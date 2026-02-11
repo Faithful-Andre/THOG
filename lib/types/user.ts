@@ -1,0 +1,2 @@
+User
+Role = "clinician" | "patient"

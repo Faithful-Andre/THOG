@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+html,
+body {
+  height: 100%;
+}
+
+@font-face {
+  font-family: "Dena";
+  src: url("/fonts/Dena.otf") format("opentype");
+}
+
+.icon-dena {
+  font-family: "Dena";
+}
+
+@font-face {
+  font-family: "Lucide";
+  src: url("/fonts/lucide.ttf") format("truetype");
+}
+
+.icon {
+  font-family: "Lucide";
+  font-size: 18px;
+}
